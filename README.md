@@ -1,15 +1,14 @@
 # NDX
 NDX is the ethereum based ERC20 token for nDEX. 
 
-NDX total supply 		 : 15 billions
+NDX total supply 		 : 15 billion
 
-NDX for team/company		 : 2 billions  (13.33% will be stored/locked for a minimum period 
+NDX for team/company		 : 2 billion  (13.33% will be stored/locked for a minimum period 
 				   of 6 months.)
 				   
 NDX for community	         : 1 billion (Airdrop, bounty, special offer, advisers)
 
-NDX for sell		   	 : 12 billions ( Those who donate 0.001-0.1ETH to us through
-				    our contract address, will get NDX at 10000000NDX / 1ETH rate.
+NDX for sell		   	 : 12 billion 
 				    
 
 # Corresponding wallets
